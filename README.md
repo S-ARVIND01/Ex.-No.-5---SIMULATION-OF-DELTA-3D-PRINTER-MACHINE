@@ -29,7 +29,8 @@
 
 ![241380265-a2a0494f-e859-423d-9e3c-347fd54a6157](https://github.com/S-ARVIND01/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118707337/d4b3b1bf-c156-4708-bb5a-b77166a936c3)
 
-### he base provides stability and support for the entire Delta 3D printer structure. It houses the electronics, power supply, and other components.
+### Base:
+The base provides stability and support for the entire Delta 3D printer structure. It houses the electronics, power supply, and other components.
 
 ### Holder :
 In a Delta 3D printer, the holder may refer to the filament spool holder, which holds the filament spool in place and ensures smooth and controlled feeding of filament into the extruder.
